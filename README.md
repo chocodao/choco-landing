@@ -4,7 +4,7 @@
 
 ### Run locally
 ```
-cd package_code
+cd choco-landing
 npm install
 npm start
 ```
