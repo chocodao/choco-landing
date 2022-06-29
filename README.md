@@ -6,7 +6,7 @@ This package was generated automatically with [Anima App](https://www.animaapp.c
 
 ### Run locally
 ```
-cd package_code
+cd choco-landing
 npm install
 npm start
 ```
