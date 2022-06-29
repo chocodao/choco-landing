@@ -1,0 +1,117 @@
+.iphone-mini {
+  align-items: center;
+  background-color: var(--cocoa-brown);
+  display: flex;
+  flex-direction: column;
+  height: 1607px;
+  overflow: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.thetas-nativedecen-5 {
+  letter-spacing: 0;
+  line-height: 33px;
+  margin-right: 18.09px;
+  margin-top: 41px;
+  min-height: 122px;
+  min-width: 310px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.choco-is-building-ba-5 {
+  letter-spacing: 0;
+  line-height: 9px;
+  margin-right: 23.16px;
+  margin-top: 29px;
+  min-height: 35px;
+  min-width: 220px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.overlap-group8-5 {
+  height: 97px;
+  margin-right: 46.23px;
+  margin-top: 28px;
+  position: relative;
+  width: 234px;
+}
+
+.bar2-10 {
+  height: 67px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 63px;
+}
+
+.how-to-participate-5 {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-l);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-right: 4.85px;
+  margin-top: 3px;
+  min-height: 39px;
+  min-width: 303px;
+  white-space: nowrap;
+}
+
+.overlap-group6-1 {
+  height: 812px;
+  margin-left: 8.84px;
+  margin-top: 12px;
+  position: relative;
+  width: 356px;
+}
+
+.bar1-15 {
+  height: 96px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 68px;
+  width: 89px;
+}
+
+.bar1-16 {
+  height: 104px;
+  left: 246px;
+  object-fit: cover;
+  position: absolute;
+  top: 542px;
+  width: 110px;
+}
+
+.bar1-17 {
+  height: 74px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 384px;
+  width: 78px;
+}
+
+.overlap-group7-5 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 211px;
+  margin-top: 19px;
+  position: relative;
+  width: 375px;
+}
+
+.bar2-11 {
+  height: 76px;
+  left: 218px;
+  object-fit: cover;
+  position: absolute;
+  top: 119px;
+  width: 79px;
+}
+

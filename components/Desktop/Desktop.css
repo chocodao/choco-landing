@@ -1,0 +1,216 @@
+.desktop {
+  align-items: center;
+  background-color: var(--cocoa-brown);
+  display: flex;
+  flex-direction: column;
+  height: 2490px;
+  overflow: hidden;
+  width: 1900px;
+}
+
+.flex-row {
+  align-items: flex-end;
+  display: flex;
+  height: 69px;
+  margin-left: 5.43px;
+  margin-top: 59px;
+  min-width: 1737px;
+  position: relative;
+}
+
+.overlap-group7 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  margin-bottom: 0;
+  min-width: 60px;
+}
+
+.chocolate-bar_1f36b {
+  height: 60px;
+  object-fit: cover;
+  width: 60px;
+}
+
+.overlap-group {
+  height: 59px;
+  margin-bottom: -3.0px;
+  margin-left: 12px;
+  position: relative;
+  width: 157px;
+}
+
+.choco {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.finance {
+  left: 87px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 39px;
+  white-space: nowrap;
+}
+
+.overlap-group11 {
+  height: 1787px;
+  margin-right: 0;
+  margin-top: 28px;
+  position: relative;
+  width: 1900px;
+}
+
+.overlap-group14 {
+  height: 1404px;
+  left: 0;
+  position: absolute;
+  top: 383px;
+  width: 1900px;
+}
+
+.flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 84px;
+  min-height: 488px;
+  position: absolute;
+  top: 0;
+  width: 485px;
+}
+
+.choco-is-building-ba {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 0.26px;
+  min-height: 74px;
+  white-space: nowrap;
+}
+
+.bar2 {
+  align-self: center;
+  height: 136px;
+  margin-right: 127.74px;
+  margin-top: 144px;
+  object-fit: cover;
+  width: 127px;
+}
+
+.overlap-group-container {
+  height: 962px;
+  left: 0;
+  position: absolute;
+  top: 442px;
+  width: 1900px;
+}
+
+.overlap-group12 {
+  height: 921px;
+  left: 599px;
+  position: absolute;
+  top: 0;
+  width: 1301px;
+}
+
+.how-to-participate {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.overlap-group9 {
+  height: 921px;
+  left: 389px;
+  position: absolute;
+  top: 0;
+  width: 912px;
+}
+
+.bar1 {
+  height: 264px;
+  left: 647px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 265px;
+}
+
+.overlap-group8 {
+  height: 843px;
+  left: 0;
+  position: absolute;
+  top: 119px;
+  width: 912px;
+}
+
+.bar1-1 {
+  height: 194px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 649px;
+  width: 181px;
+}
+
+.fallingchoco {
+  height: 748px;
+  left: 1023px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 697px;
+}
+
+.thetas-nativedecen {
+  left: 84px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 70px;
+  white-space: nowrap;
+}
+
+.overlap-group10 {
+  height: 894px;
+  margin-top: 81px;
+  position: relative;
+  width: 1900px;
+}
+
+.rectangle-2 {
+  background-color: var(--oil);
+  height: 855px;
+  left: 0;
+  position: absolute;
+  top: 39px;
+  width: 1900px;
+}
+
+.bar1-2 {
+  height: 212px;
+  left: 1587px;
+  object-fit: cover;
+  position: absolute;
+  top: 208px;
+  width: 222px;
+}
+
+.bar2-1 {
+  height: 154px;
+  left: 1351px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 161px;
+}
+

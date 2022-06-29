@@ -1,5 +1,5 @@
 import React from "react";
-import "./Component151.sass";
+import "./Component151.css";
 
 class Component151 extends React.Component {
   render() {

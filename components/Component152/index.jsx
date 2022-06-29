@@ -1,5 +1,5 @@
 import React from "react";
-import "./Component152.sass";
+import "./Component152.css";
 
 class Component152 extends React.Component {
   render() {
@@ -7,7 +7,7 @@ class Component152 extends React.Component {
 
     return (
       <div className="component-15-2">
-        <div className="melting-1 montserrat-semi-bold-celeste-20px">{children}</div>
+        <div className="melting-2 montserrat-semi-bold-celeste-20px">{children}</div>
       </div>
     );
   }

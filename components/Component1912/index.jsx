@@ -1,5 +1,5 @@
 import React from "react";
-import "./Component1912.sass";
+import "./Component1912.css";
 
 class Component1912 extends React.Component {
   render() {
@@ -7,7 +7,7 @@ class Component1912 extends React.Component {
 
     return (
       <div className="component-19-2">
-        <div className="join-choco-discord-1 montserrat-semi-bold-white-20px">{children}</div>
+        <div className="join-choco-discord-12 montserrat-semi-bold-white-20px">{children}</div>
       </div>
     );
   }

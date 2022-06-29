@@ -1,0 +1,116 @@
+.tablet {
+  align-items: center;
+  background-color: var(--cocoa-brown);
+  display: flex;
+  flex-direction: column;
+  height: 3211px;
+  overflow: hidden;
+  position: relative;
+  width: 999px;
+}
+
+.thetas-nativedecen-3 {
+  letter-spacing: 0;
+  line-height: 70px;
+  margin-left: 2.0px;
+  margin-top: 82px;
+  min-height: 260px;
+  min-width: 656px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.choco-is-building-ba-3 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 2.0px;
+  margin-top: 42px;
+  min-height: 74px;
+  min-width: 484px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.flex-row-4 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  height: 195px;
+  margin-left: 96.37px;
+  margin-top: 54px;
+  min-width: 598px;
+  position: relative;
+}
+
+.bar2-6 {
+  align-self: flex-end;
+  height: 136px;
+  object-fit: cover;
+  width: 127px;
+}
+
+.how-to-participate-3 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 63px;
+  margin-left: 68px;
+  margin-top: 7px;
+  min-height: 79px;
+  white-space: nowrap;
+}
+
+.overlap-group7-3 {
+  align-self: flex-end;
+  height: 1645px;
+  margin-right: 0;
+  margin-top: 25px;
+  position: relative;
+  width: 971px;
+}
+
+.bar1-9 {
+  height: 194px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 137px;
+  width: 181px;
+}
+
+.bar1-10 {
+  height: 212px;
+  left: 749px;
+  object-fit: cover;
+  position: absolute;
+  top: 1097px;
+  width: 222px;
+}
+
+.bar1-11 {
+  height: 150px;
+  left: 31px;
+  object-fit: cover;
+  position: absolute;
+  top: 785px;
+  width: 158px;
+}
+
+.overlap-group8-3 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 427px;
+  margin-right: 0;
+  margin-top: 39px;
+  position: relative;
+  width: 999px;
+}
+
+.bar2-7 {
+  height: 154px;
+  left: 630px;
+  object-fit: cover;
+  position: absolute;
+  top: 240px;
+  width: 161px;
+}
+

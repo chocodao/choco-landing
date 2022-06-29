@@ -1,0 +1,27 @@
+.component-4-2-5 {
+  align-items: flex-start;
+  border-radius: 33px;
+  cursor: pointer;
+  display: flex;
+  height: 31px;
+  margin-top: 23px;
+  min-width: 88px;
+  padding: 6.9px 26.1px;
+  transition: all 0.2s ease;
+}
+
+.component-4-2-5:hover {
+  transform: scale(1.1);
+}
+
+.melt-26 {
+  letter-spacing: 0;
+  line-height: 9px;
+  min-height: 13px;
+  white-space: nowrap;
+}
+
+.component-4-2-5.component-4-3-14 {
+  padding: 6.9px 24.1px;
+}
+

@@ -1,16 +1,14 @@
 import React from "react";
-import "./Component1712.sass";
+import "./Component1712.css";
 
 class Component1712 extends React.Component {
   render() {
     const { children } = this.props;
 
     return (
-      <a href="https://docs.chocofinance.com/">
-        <div className="component-17-2">
-          <div className="documentation-1 montserrat-semi-bold-white-20px">{children}</div>
-        </div>
-      </a>
+      <div className="component-17-1-14">
+        <div className="documentation-28 montserrat-semi-bold-celeste-9px">{children}</div>
+      </div>
     );
   }
 }
